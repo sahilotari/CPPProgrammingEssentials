@@ -1,0 +1,1 @@
+Enter marks of Physics :Enter marks of Chemistry:Enter marks of Maths: Average marks are 86

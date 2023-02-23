@@ -1,0 +1,3 @@
+1 2 3 4 5 
+Size of Vector : 5
+Capacity of Vector : 10

@@ -1,0 +1,11 @@
+Inside Constructor
+Name: GoProHero8
+Id: 101
+MRP: 28000
+Selling Price: 30000
+Name: GoProHero9
+Id: 101
+MRP: 28000
+Selling Price: 30000
+DeletingGoProHero8
+DeletingGoProHero9
